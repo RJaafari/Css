@@ -1,0 +1,56 @@
+body{
+    background-image: url("Background_img.jpg");
+}
+.container{
+    border:  3px solid black;
+    width: 400px;
+    height: 350px;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 20px;
+    border: none;
+    
+}
+.text{
+    margin-top: 100px;
+    font-size: 25px;
+    font-weight: 550;
+    color: black;
+    border: none;
+    background-color: #addaab;
+    border-left: 6px solid #058f00;
+    width: 1000px;
+    margin-right:00px;
+    text-align: center;
+    margin: auto;
+}
+.button{
+    background-color: #ffc708;
+    color : black;
+    width: 250px;
+    height: 40px;
+    margin-top: 50px;
+    font-weight: 650;
+    border: 2px solid #ffc708;
+    border-radius: 3px;
+    color: #000;
+}
+h1{
+    font-size: 3rem;
+    line-height: 3.5rem;
+    padding-bottom: 10px!important;
+    border-bottom: 1px solid #000;
+    text-align: center;
+}
+.info{
+    width: 250px;
+    height: 30px;
+    margin-bottom: 20px;
+    font-size: 14px;
+    border: none;
+    background-color: #cbdff3;
+    padding-left: 10px;
+    
+
+}
